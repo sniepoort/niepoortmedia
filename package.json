@@ -1,0 +1,17 @@
+{
+  "name": "niepoort",
+  "now": {
+    "alias": "niepoortmedia.com"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^6.0.0",
+    "rc-progress": "^2.2.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
